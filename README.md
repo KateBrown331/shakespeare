@@ -18,7 +18,7 @@ scikit-learn
 You can run the project with:
 `python3 main.py`
 
-This will enter a loop where you can repeatedly search for matches to sentences. You can break it by entering `quit`.
+This will enter a loop where you can repeatedly search for matches to sentences. You can break the loop and end the program by entering `quit`.
 The repeated nature of the search loop can help you refine your search iteratively to find the exact line you're looking for.
 
 # Demo

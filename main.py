@@ -29,6 +29,10 @@ def display_sentence_info(sentence_info, similarity_score):
   print(f"(Match {similarity_score * 100:.1f}%)")
   print("----------------------")
   
+
+
+# main input loop
+
 while(True):
   
   query = input("What sentence would you like to find? (or 'quit' to end)  ")
