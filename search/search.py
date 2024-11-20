@@ -51,7 +51,7 @@ def start():
 
 @search_bp.route('/submit', methods=['POST'])
 def submit():
-  
+
   # Get the text input from the form
   user_text = request.form['user_text']
   play_filter = request.form['play_filter']
