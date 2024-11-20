@@ -1,0 +1,45 @@
+
+
+.all {
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    padding: 20px 100px 100px 100px; 
+    color: rgb(55, 24, 24);
+   
+    background-image: url("https://i.ibb.co/wCSJpc6/bg2.jpg");
+    background-repeat: repeat;
+    background-position: center top; 
+  }
+
+.title {
+    font-size: 4em;
+    font-style: italic;
+    font-family:'Times New Roman', Times, serif;
+    justify-self: center;
+}
+.main {
+    
+
+    margin: auto;
+    margin-top: 100px;
+    padding: 50px;
+    width: 60%; 
+    min-height: 700px;
+    border: solid;
+    border-color: rgb(137, 66, 41);
+    border-radius: 10px;
+    border-width: 5px;
+    background-color: rgba(255, 250, 241, 0.95);
+}
+
+
+.pre {
+  font-family: 'Times New Roman', Times, serif;
+  font-size: 1.1em;
+  padding: 50px;
+  white-space: pre-wrap;
+  word-wrap: break-word;
+}
+
+.highlight {
+    background-color: yellow; /* Highlight the targeted line */
+}
